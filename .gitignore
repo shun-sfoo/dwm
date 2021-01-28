@@ -1,1 +1,4 @@
 dwm
+*.orig
+*.o
+*.rej
